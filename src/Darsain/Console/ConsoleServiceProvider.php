@@ -48,7 +48,7 @@ class ConsoleServiceProvider extends ServiceProvider {
         );
 
         $this->publishes([
-            __DIR__.'/../../views' => resource_path('views/vendor/console'),
+            __DIR__.'/../../views' => base_path('resources/views/vendor/console'),
         ], 'view');
 
         if (! $this->app->routesAreCached()) {
