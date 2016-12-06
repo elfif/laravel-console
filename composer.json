@@ -1,5 +1,5 @@
 {
-	"name": "teepluss/console",
+	"name": "elfif/console",
 	"description": "Browser console for Laravel Framework.",
 	"keywords": [
 		"laravel",
@@ -9,8 +9,8 @@
 	"license": "MIT",
     "authors": [
     {
-        "name": "Teepluss",
-        "email": "teepluss@gmail.com",
+        "name": "elfif",
+        "email": "fifoooo@gmail.com",
         "homepage": "https://github.com/teepluss",
         "role": "Developer"
     }
